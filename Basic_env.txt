@@ -1,0 +1,14 @@
+name: Basic_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - prinseq==0.20.4=hdfd78af_5
+  - igv==2.11.3=hdfd78af_0
+  - blast==2.12.0=pl5262h3289130_0
+  - make==4.3=hd18ef5c_1
+  - clustalo==1.2.3=0
+  - muscle==3.8.1551=h7d875b9_6
+  - fastqc==0.11.9=hdfd78af_1
+  - emboss==6.6.0=h6debe1e_0
