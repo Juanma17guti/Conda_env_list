@@ -51,8 +51,9 @@ Las instrucciones sobre cómo hacerlo estarán incluidas en cada proyecto.
 
 
 ## Entornos Disponibles
-1. Basic_env
-2. Genomic_Human
-
+1. [Basic_env](Basic_env.yml)
+2. [Genomic_Human](Genomic_Human.yml)
+3. [Genomic_Bacteria](Genomic_Bacteria.yml)
+4. [RNA_seq-1](RNA_seq-1.yml)
 
 
