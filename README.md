@@ -2,13 +2,13 @@
 # ENTORNOS DE 🐍 CONDA 🐍 PARA DIFERENTES PROYECTOS 
 
 ## 🔗 Índice
-1. [📚 Descripción General](#descripción-general)
-2. [🛠️ Instalación](#instalación)
-3. [🚀 Uso](#uso)
-4. [🗂️ Entornos Disponibles](#entornos-disponibles)
+1. [📚Descripción General](#id1)
+2. [🛠️Instalación](#id2)
+3. [🚀Uso](#id3)
+4. [🗂️Entornos Disponibles](#id4)
 
 
-## 📚Descripción General📚
+## 📚Descripción General📚<a name="id1">
 Este proyecto tiene como objetivo proporcionar entornos de Conda preconfigurados para el desarrollo de pipelines de bioinformática. 
 Está dirigido a científicos, investigadores y cualquier persona interesada en la bioinformática, facilitando la instalación y uso de herramientas esenciales en este campo.
 
@@ -18,7 +18,7 @@ Utiliza canales como conda-forge, bioconda y defaults, e incluye programas bási
 Este proyecto nace de una necesidad personal para mantener organizados mis entornos de trabajo y compartir esta organización con la comunidad,
 permitiendo que otros también puedan beneficiarse de estos entornos preconfigurados para sus propios proyectos.
 
-## 🛠️ Instalación
+## 🛠️ Instalación<a name="id2">
 ### 💻 1. Instalar Conda:
 Conda es un gestor de entornos y paquetes. Conda facilita la instalación de la mayoría de los paquetes que necesitamos, aunque no todo está disponible de forma predeterminada. 
 Su verdadero valor radica en la gestión eficiente de entornos, evitando conflictos de versiones entre programas. 
@@ -32,7 +32,7 @@ Si no tienes Conda instalado, puedes instalar Miniconda. Aquí te dejo las instr
 ### 💻 2. Comandos basicos: 
 <img width="939" alt="Captura de pantalla 2024-09-29 a las 20 26 42" src="https://github.com/user-attachments/assets/135c239c-1d14-4235-b575-8cb55fbe83c5">
       
-## 🚀 Uso
+## 🚀 Uso<a name="id3">
 Los diferentes entornos de Conda en este repositorio están diseñados para ser utilizados en una variedad de proyectos de bioinformática que iré subiendo con el tiempo. 
 Cada entorno está configurado con las herramientas y bibliotecas necesarias para facilitar tareas específicas, asegurando que cada proyecto funcione sin problemas y sin conflictos de dependencias.
 
@@ -50,7 +50,7 @@ Las instrucciones sobre cómo hacerlo estarán incluidas en cada proyecto.
 
 
 
-## 🗂️ Entornos Disponibles
+## 🗂️ Entornos Disponibles<a name="id4"></a
 1. [Basic_env](Basic_env.yml)
 2. [Genomic_Human](Genomic_Human.yml)
 3. [Genomic_Bacteria](Genomic_Bacteria.yml)
